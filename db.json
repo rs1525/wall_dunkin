@@ -43,4 +43,40 @@
 		"dimensions": "1280 x 720 px",
 		"copyright": "Android Kustom15"
 	}
+	{
+		"name": "Wallpaper D1",
+		"author": "Android Kustom15",
+		"url": "https://drive.google.com/uc?export=download&id=18S3nJZ5PFIgyFl24f2tBahUtsJvoUMyh",
+		"collections": "Dunkin",
+		"downloadable": true,
+		"copyright": "Android Kustom15"
+	},
+    {
+		"name": "Wallpaper D2",
+		"author": "android Kustom15",
+		"url": "https://drive.google.com/uc?export=download&id=1cjTt_yrabp6mdLXFYSMOYdQ2GhXGyqTt",
+		"collections": "Dunkin",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1280 x 720 px",
+		"copyright": "Android Kustom15"
+	},
+	{
+		"name": "Wallpaper D3",
+		"author": "Android Kustom15",
+		"url": "https://drive.google.com/uc?export=download&id=104LwBwdMBXDyeaz8QyHyYiRXSUBDFQG8",
+		"collections": "Dunkin",
+		"downloadable": true,
+		"copyright": "Android Kustom15"
+	},
+	{
+		"name": "Wallpaper D4",
+		"author": "android Kustom15",
+		"url": "https://drive.google.com/uc?export=download&id=1C5Bx2iSgbYjw4EIw6euetm7-jdATD-Dq",
+		"collections": "Dunkin",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1280 x 720 px",
+		"copyright": "Android Kustom15"
+	}
 ]
