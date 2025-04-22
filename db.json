@@ -1,12 +1,32 @@
 [
     {
-        "name": "WallDark",
+        "name": "WALL 1",
         "author": "Android Kustom15",
-        "url": "https://drive.google.com/uc?export=download&id=1TGWG0RAwyKj9cxBW4e6CU53vQRJcHNRK",
+        "url": "https://drive.google.com/uc?export=download&id=1AOIJLA8mJQLFpnngc6vvqwzlMx5_TjWo",
         "collections": "Dunkin",
         "downloadable": true,
         "size": 1671,
         "dimensions": "1024 x 1024 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "WALL 2",
+        "author": "Android Kustom15",
+        "url": "https://drive.google.com/uc?export=download&id=1JTAp0LEdvTKtb_cnxs3JMdal3AfA3XZs",
+        "collections": "Dunkin",
+        "downloadable": true,
+        "size": 345066,
+        "dimensions": "2280 x 1080 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "WALL 3",
+        "author": "Android Kustom15",
+        "url": "https://drive.google.com/uc?export=download&id=1qf_g6AomYFV7o8VXQNKvUwh9XXbzp2On",
+        "collections": "Dunkin",
+        "downloadable": true,
+        "size": 345066,
+        "dimensions": "2280 x 1080 px",
         "copyright": "Android Kustom15"
     },
 	{
